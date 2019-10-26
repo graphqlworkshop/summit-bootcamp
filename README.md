@@ -8,11 +8,30 @@ Welcome to the GraphQL Summit Bootcamp! We're really glad that you're here. Belo
 
 ## Topics
 
-- [GraphQL Subscriptions]()
-- [Apollo Tooling]()
-- [Apollo Federation]()
+- [GraphQL Subscriptions](https://github.com/graphqlworkshop/summit-bootcamp#graphql-subscriptions)
+- [Apollo Tooling](https://github.com/graphqlworkshop/summit-bootcamp#apollo-tooling)
+- [Apollo Federation](https://github.com/graphqlworkshop/summit-bootcamp#apollo-federation)
+- [Federation Lab](https://github.com/graphqlworkshop/summit-bootcamp#federation-lab)
 
-## Links
+## GraphQL Subscriptions 🎧
+
+### Slides
+
+- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
+
+### Samples
+
+- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
+
+### Helpful Links
+
+- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
+
+## Apollo Tooling 🛠
+
+## Apollo Federation 🚀
+
+## Federation Lab 👩🏻‍🔬
 
 ```
 ENGINE_API_KEY=

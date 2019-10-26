@@ -8,10 +8,17 @@ Welcome to the GraphQL Summit Bootcamp! We're really glad that you're here. Belo
 
 ## Topics
 
-- [GraphQL Subscriptions](https://github.com/graphqlworkshop/summit-bootcamp#graphql-subscriptions)
-- [Apollo Tooling](https://github.com/graphqlworkshop/summit-bootcamp#apollo-tooling)
-- [Apollo Federation](https://github.com/graphqlworkshop/summit-bootcamp#apollo-federation)
-- [Apollo Federation Lab](https://github.com/graphqlworkshop/summit-bootcamp#apollo-federation-lab)
+- [GraphQL Subscriptions](https://github.com/graphqlworkshop/summit-bootcamp#graphql-subscriptions-)
+- [Apollo Tooling](https://github.com/graphqlworkshop/summit-bootcamp#apollo-tooling-)
+- [Apollo Federation](https://github.com/graphqlworkshop/summit-bootcamp#apollo-federation-)
+- [Apollo Federation Lab](https://github.com/graphqlworkshop/summit-bootcamp#apollo-federation-lab-)
+
+## Instructor Info
+
+- **Alex Banks**, [Twitter](https://twitter.com/moontahoe) | [Email](mailto:alex@moonhighway.com)
+- **Eve Porcello**, [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
+
+[Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
 ## GraphQL Subscriptions 🎧
 
@@ -29,6 +36,10 @@ Welcome to the GraphQL Summit Bootcamp! We're really glad that you're here. Belo
 - [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ## Apollo Tooling 🛠
+
+**Slides**
+
+- [TypeScript & GraphQL](https://slides.com/moonhighway/typescript-graphql)
 
 ## Apollo Federation 🚀
 

@@ -27,8 +27,6 @@ _In this section, we'll demonstrate some best practices for working with GraphQL
 
 - [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
 
-**Samples**
-
 **Resources**
 
 - [GraphQL Fun](https://graphql.fun)

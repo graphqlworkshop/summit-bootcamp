@@ -33,26 +33,38 @@ _In this section, we'll demonstrate some best practices for working with GraphQL
 
 **Resources**
 
-- [TypeScript & Apollo - Apollo Docs](https://www.apollographql.com/docs/react/development-testing/static-typing/)
-- [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-
 ## Apollo Tooling 🛠
 
 _In this section, we'll discuss tips and tricks for powering up your workflow with Apollo Tooling._
 
 **Slides**
 
+- [Graph Manager Student Challenge](https://slides.com/moonhighway/graph-manager/)
 - [TypeScript & GraphQL](https://slides.com/moonhighway/typescript-graphql)
 
 **Samples**
 
-- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
+- [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
+- [Lift Manager Website](https://lift-manager.netlify.com)
+- [Big Basin Sample Client Code](https://github.com/eveporcello/big-basin/blob/master/src/index.js)
+- [Big Basin Website](https://big-basin.netlify.com)
+- [Snowtooth Project Repo](https://github.com/moonhighway/snowtooth)
+- [Client Side Mocking - CodeSandbox](https://codesandbox.io/s/client-mocking-epqmp)
+
+**Resources**
+
+- [Graph Manager - Docs](https://www.apollographql.com/docs/graph-manager/)
+- [Graph Manager Website](https://engine.apollographql.com)
+- [TypeScript & Apollo - Apollo Docs](https://www.apollographql.com/docs/react/development-testing/static-typing/)
+- [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [TypeScript Playground](https://www.typescriptlang.org/play/index.html)
 
 **Commands to Copy/Paste**
 
 _Sample Engine API Key_
 
-`ENGINE_API_KEY=`
+`ENGINE_API_KEY=service:eveporcello-6318:RQYT_LtqhrYG8Taw7ORtzA`
 
 _Download the Schema_
 
@@ -61,13 +73,6 @@ _Download the Schema_
 _Generate Types_
 
 `npx apollo codegen:generate --localSchemaFile=graphql-schema.json --target=typescript --includes=src/**/*.ts --tagName=gql --addTypename --globalTypesFile=src/types/graphql-global-types.ts types`
-
-**Resources**
-
-- [Graph Manager - Docs](https://www.apollographql.com/docs/graph-manager/)
-- [Graph Manager Website](https://engine.apollographql.com)
-- [TypeScript & Apollo - Apollo Docs](https://www.apollographql.com/docs/react/development-testing/static-typing/)
-- [React TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ## Apollo Federation 🚀
 
@@ -79,8 +84,6 @@ _In this section, we'll talk about Apollo Federation and how you can use this ar
 
 **Samples**
 
-- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
-
 **Resources**
 
 - [Apollo Federation - Apollo Docs](https://www.apollographql.com/docs/apollo-server/federation/introduction/)
@@ -91,6 +94,14 @@ _In this section, we'll talk about Apollo Federation and how you can use this ar
 ## Apollo Federation Lab 👩🏻‍🔬
 
 _In this section, we'll put our skills to work with a lab on Apollo Federation._
+
+**Slides**
+
+- [Apollo Federation Lab Challenge](https://slides.com/moonhighway/federation-lab)
+
+**Files**
+
+- [Snowtooth Federation Lab: Start Files](https://github.com/graphqlworkshop/snowtooth-federation-lab)
 
 ## Survey
 

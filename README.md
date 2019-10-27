@@ -29,9 +29,10 @@ _In this section, we'll demonstrate some best practices for working with GraphQL
 
 **Samples**
 
-- [Intro Slides](https://slides.com/moonhighway/summit-bootcamp)
-
 **Resources**
+
+- [GraphQL Fun](https://graphql.fun)
+- [Client Subscription Docs](https://www.apollographql.com/docs/react/data/subscriptions/)
 
 ## Apollo Tooling 🛠
 
@@ -51,6 +52,8 @@ _In this section, we'll discuss tips and tricks for powering up your workflow wi
 - [Big Basin Website](https://big-basin.netlify.com)
 - [Snowtooth Project Repo](https://github.com/moonhighway/snowtooth)
 - [Client Side Mocking - CodeSandbox](https://codesandbox.io/s/client-mocking-epqmp)
+- [Apollo REST Data Sources](https://github.com/MoonHighway/countries-datasources)
+- [Batch Link](https://github.com/eveporcello/batching)
 
 **Resources**
 

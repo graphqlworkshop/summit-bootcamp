@@ -87,6 +87,9 @@ _In this section, we'll talk about Apollo Federation and how you can use this ar
 
 **Samples**
 
+- [Hue Review: Start Files](https://github.com/graphqlworkshop/hue-review-activity)
+- [Hue Review: Finished Files](https://github.com/graphqlworkshop/hue-review-activity/tree/complete)
+
 **Resources**
 
 - [Apollo Federation - Apollo Docs](https://www.apollographql.com/docs/apollo-server/federation/introduction/)

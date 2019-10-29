@@ -34,8 +34,8 @@ _In this section, we'll demonstrate some best practices for working with GraphQL
 
 **Samples**
 
-- [Client Samples]()
-- [Server Samples]()
+- [Client Samples](https://github.com/graphqlworkshop/summit-bootcamp/tree/master/subscription-samples/client)
+- [Server Samples](https://github.com/graphqlworkshop/summit-bootcamp/tree/master/subscription-samples/api)
 
 ## Apollo Tooling 🛠
 

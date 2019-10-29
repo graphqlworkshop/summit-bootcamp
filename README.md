@@ -48,6 +48,7 @@ _In this section, we'll discuss tips and tricks for powering up your workflow wi
 
 **Samples**
 
+- [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
 - [Snowtooth API](https://snowtooth.moonhighway.com)
 - [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
 - [Lift Manager Website](https://lift-manager.netlify.com)

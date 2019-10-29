@@ -1,0 +1,1 @@
+https://github.com/apollographql/graphql-subscriptions/blob/master/src/pubsub.ts
